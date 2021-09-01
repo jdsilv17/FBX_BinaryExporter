@@ -162,10 +162,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="exporter_outline.h" />
-    <ClInclude Include="FBX_Export_Interface.h" />
     <ClInclude Include="FBX_Utilities.h" />
     <ClInclude Include="fnv1a.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="Interface\FBX_Export_Interface.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="simple_mesh.h" />
   </ItemGroup>
